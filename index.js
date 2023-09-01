@@ -1,4 +1,4 @@
-export function rootLayout () {
+export default function Layout () {
     return (
         <div>
             <h1>This is an example of how using git</h1>
